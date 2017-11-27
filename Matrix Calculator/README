@@ -1,1 +1,17 @@
+Srija Konjarla
+skonjarl
+pa3
 
+Sparse.java: The main client module that emulates takes an input file and takes three integers and uses them to make two matrices. The output file contains the matrices, A and B, and calculations using the Matrix ADT functions on the matrices created by the input file.
+
+Matrix.java: The Matrix ADT that contains all of the functions with regards to matrices, such as, add(), changeEntry(), sub(), scalarMult(), mult(), etc. The ADT uses entries to input in the list array which creates the matrix.
+
+List.java: The List ADT that contains all the functions that needs to be used by a double ended linked list with a cursor.
+
+MatrixTest.java: A client module that tests all the functions of the Matrix ADT
+
+ListTest.java: A client module that tests all the functions of the List ADT
+
+Makefile: General Makefile for pa3
+
+README
